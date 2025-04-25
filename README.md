@@ -11,7 +11,7 @@
 
 ## Nome do Grupo: Press F to Debug
 
-## Integrantes: <a href="www.linkedin.com/in/guilherme-soares-0a3542208/">Guilherme Nunes Soares</a>, <a href="/">Gabriel Melego Júlio</a>, <a href="https://www.linkedin.com/in/victorbarq/">Karine Aparecida Cardoso Alves</a>, <a href="https://www.linkedin.com/in/victorbarq/">Marina Soares dos Santos</a>
+## Integrantes: <a href="https://www.linkedin.com/in/guilherme-soares-0a3542208/">Guilherme Nunes Soares</a>, <a href="/">Gabriel Melego Júlio</a>, <a href="https://www.linkedin.com/in/victorbarq/">Karine Aparecida Cardoso Alves</a>, <a href="https://www.linkedin.com/in/victorbarq/">Marina Soares dos Santos</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Lucy Mari Tabuti </a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Quiroz</a>
 ## Descrição
