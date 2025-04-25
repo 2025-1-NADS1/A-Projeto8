@@ -7,7 +7,7 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# nome do projeto
+# Smart House Dashboard
 
 ## Nome do Grupo
 
@@ -23,10 +23,10 @@
 
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
+<br>Um projeto acadêmico inovador propõe o desenvolvimento de um dashboard intuitivo para residências inteligentes, com foco em sustentabilidade e economia. Este sistema centralizará o controle de dispositivos como iluminação, termostatos e eletrodomésticos, fornecendo aos moradores informações detalhadas sobre o consumo de energia e água em tempo real. Através da análise desses dados, o dashboard oferecerá sugestões personalizadas para otimizar o uso dos recursos, incentivando práticas mais sustentáveis e a redução de custos.
+Para engajar os usuários de forma eficaz, o projeto integrará elementos de gamificação. Um sistema de pontuação, desafios e recompensas será implementado, transformando a economia de recursos em uma experiência interativa e motivadora.<br>
 Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
+<br>Esse projeto  visa aumentar a conscientização sobre a importância da sustentabilidade e promover mudanças de comportamento duradouras, tornando a economia uma atividade engajadora e recompensadora.<br>
 <br><br>
 
 ## 🛠 Estrutura de pastas
