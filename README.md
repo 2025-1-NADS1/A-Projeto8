@@ -13,7 +13,7 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/guilherme-soares-0a3542208/">Guilherme Nunes Soares</a>, <a href="https://www.linkedin.com/in/gabriel-melego-julio-85b83a307/">Gabriel Melego Júlio</a>, <a href="https://www.linkedin.com/in/victorbarq/">Karine Aparecida Cardoso Alves</a>, <a href="https://www.linkedin.com/in/victorbarq/">Marina Soares dos Santos</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti </a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Quiroz</a> <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Ronaldo Araujo Pinto <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10//">Eduardo Savino Gomes
+## Professores Orientadores: <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti </a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Quiroz</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Ronaldo Araujo Pinto <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10//">Eduardo Savino Gomes
 ## Descrição
 
 <p align="center">
