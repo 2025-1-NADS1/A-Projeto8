@@ -22,10 +22,10 @@
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+
 <br>Um projeto acadêmico inovador propõe o desenvolvimento de um dashboard intuitivo para residências inteligentes, com foco em sustentabilidade e economia. Este sistema centralizará o controle de dispositivos como iluminação, termostatos e eletrodomésticos, fornecendo aos moradores informações detalhadas sobre o consumo de energia e água em tempo real. Através da análise desses dados, o dashboard oferecerá sugestões personalizadas para otimizar o uso dos recursos, incentivando práticas mais sustentáveis e a redução de custos.
 Para engajar os usuários de forma eficaz, o projeto integrará elementos de gamificação. Um sistema de pontuação, desafios e recompensas será implementado, transformando a economia de recursos em uma experiência interativa e motivadora.<br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+
 <br>Esse projeto  visa aumentar a conscientização sobre a importância da sustentabilidade e promover mudanças de comportamento duradouras, tornando a economia uma atividade engajadora e recompensadora.<br>
 <br><br>
 
