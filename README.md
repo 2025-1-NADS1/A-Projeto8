@@ -17,7 +17,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://chatgpt.com/s/m_682933bf124081919f3c68e0ccdb7cf8" alt="PRESS F TO DEBUG" border="0">
+<img src="https://sdmntprwestus3.oaiusercontent.com/files/00000000-84e8-61fd-a67a-51f5dd4d9c20/raw?se=2025-05-18T01%3A19%3A06Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=732f244e-db13-47c3-bcc7-7ee02a9397bc&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-18T01%3A11%3A04Z&ske=2025-05-19T01%3A11%3A04Z&sks=b&skv=2024-08-04&sig=xT/sK1NjiO3DKHo9yqf7hv8TYOEiyao%2B430ntyjZp3M%3D" alt="PRESS F TO DEBUG" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
