@@ -1,8 +1,5 @@
-```sh
-Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
+# A-Projeto8
 
-Vide tutoriais do PI.
-```
 
 # FECAP - Fundação de Comércio Álvares Penteado
 
@@ -10,14 +7,13 @@ Vide tutoriais do PI.
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Smart House Dashboard
 
-## Nome do Grupo
+## Nome do Grupo: Press F to Debug
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/guilherme-soares-0a3542208/">Guilherme Nunes Soares</a>, <a href="https://www.linkedin.com/in/gabriel-melego-julio-85b83a307/">Gabriel Melego Júlio</a>, <a href="https://www.linkedin.com/in/victorbarq/">Karine Aparecida Cardoso Alves</a>, <a href="https://www.linkedin.com/in/victorbarq/">Marina Soares dos Santos</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
-
+## Professores Orientadores: <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti </a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Quiroz</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Ronaldo Araujo Pinto, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10//">Eduardo Savino Gomes
 ## Descrição
 
 <p align="center">
@@ -26,11 +22,11 @@ Vide tutoriais do PI.
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
+
+<br>Um projeto acadêmico inovador propõe o desenvolvimento de um dashboard intuitivo para residências inteligentes, com foco em sustentabilidade e economia. Este sistema centralizará o controle de dispositivos como iluminação, termostatos e eletrodomésticos, fornecendo aos moradores informações detalhadas sobre o consumo de energia e água em tempo real. Através da análise desses dados, o dashboard oferecerá sugestões personalizadas para otimizar o uso dos recursos, incentivando práticas mais sustentáveis e a redução de custos.
+Para engajar os usuários de forma eficaz, o projeto integrará elementos de gamificação. Um sistema de pontuação, desafios e recompensas será implementado, transformando a economia de recursos em uma experiência interativa e motivadora.<br>
+
+<br>Esse projeto  visa aumentar a conscientização sobre a importância da sustentabilidade e promover mudanças de comportamento duradouras, tornando a economia uma atividade engajadora e recompensadora.<br>
 <br><br>
 
 ## 🛠 Estrutura de pastas
