@@ -31,20 +31,21 @@ Para engajar os usuários de forma eficaz, o projeto integrará elementos de gam
 
 ## 🛠 Estrutura de pastas
 
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+-Raiz
+|
+|-->documentos
+ |-->Entrega 1
+ |-->Entrega 2
+ |-->Entrega 3
+ |-->Entrega 4
+ |-->README.md
+|-->imagens
+|-->src
+ |-->Backend
+ |-->Frontend
+|README.md
+
+README.MD: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
 
 A pasta raiz contem dois arquivos que devem ser alterados:
 
