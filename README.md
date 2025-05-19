@@ -18,7 +18,7 @@
 
 <p align="center">
 <img src="https://sdmntprwestus3.oaiusercontent.com/files/00000000-84e8-61fd-a67a-51f5dd4d9c20/raw?se=2025-05-18T01%3A19%3A06Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=732f244e-db13-47c3-bcc7-7ee02a9397bc&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-18T01%3A11%3A04Z&ske=2025-05-19T01%3A11%3A04Z&sks=b&skv=2024-08-04&sig=xT/sK1NjiO3DKHo9yqf7hv8TYOEiyao%2B430ntyjZp3M%3D" alt="PRESS F TO DEBUG" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+ 
 </p>
 
 
@@ -26,7 +26,7 @@
 <br>Um projeto acadêmico inovador propõe o desenvolvimento de um dashboard intuitivo para residências inteligentes, com foco em sustentabilidade e economia. Este sistema centralizará o controle de dispositivos como iluminação, termostatos e eletrodomésticos, fornecendo aos moradores informações detalhadas sobre o consumo de energia e água em tempo real. Através da análise desses dados, o dashboard oferecerá sugestões personalizadas para otimizar o uso dos recursos, incentivando práticas mais sustentáveis e a redução de custos.
 Para engajar os usuários de forma eficaz, o projeto integrará elementos de gamificação. Um sistema de pontuação, desafios e recompensas será implementado, transformando a economia de recursos em uma experiência interativa e motivadora.<br>
 
-<br>Esse projeto  visa aumentar a conscientização sobre a importância da sustentabilidade e promover mudanças de comportamento duradouras, tornando a economia uma atividade engajadora e recompensadora.<br>
+<br>Esse projeto  visa aumentar a conscientização sobre a importância da sustentabilidade e promover mudanças de comportamento duradouras, tornando a economia uma atividade engajadora e recompensadora, um projeto feito por Guilherme, Gabriel, Karina e Marina.<br>
 <br><br>
 
 ## 🛠 Estrutura de pastas
@@ -49,6 +49,8 @@ README.MD: Arquivo que serve como guia e explicação geral sobre seu projeto. O
 
 A pasta raiz contem dois arquivos que devem ser alterados:
 
+
+
 <b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
 
 Há também 4 pastas que seguem da seguinte forma:
@@ -61,44 +63,6 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>src</b>: Pasta que contém o código fonte.
 
-## 🛠 Instalação
-
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
-
-## 💻 Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
 
 ## 📋 Licença/License
 Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
