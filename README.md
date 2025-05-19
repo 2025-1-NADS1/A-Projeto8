@@ -11,13 +11,13 @@
 
 ## Nome do Grupo: Press F to Debug
 
-## Integrantes: <a href="https://www.linkedin.com/in/guilherme-soares-0a3542208/">Guilherme Nunes Soares</a>, <a href="https://www.linkedin.com/in/gabriel-melego-julio-85b83a307/">Gabriel Melego Júlio</a>, <a href="https://www.linkedin.com/in/victorbarq/">Karine Aparecida Cardoso Alves</a>, <a href="https://www.linkedin.com/in/victorbarq/">Marina Soares dos Santos</a>
+## Integrantes: <a href="https://www.linkedin.com/in/guilherme-soares-0a3542208/">Guilherme Nunes Soares</a>, <a href="https://www.linkedin.com/in/gabriel-melego-julio-85b83a307/">Gabriel Melego Júlio</a>, <a href="https://www.linkedin.com/in/karine-aparecida-cardoso-alves-b903a2366">Karine Aparecida Cardoso Alves</a>, <a href="https://www.linkedin.com/in/marina-soares-379384366/">Marina Soares dos Santos</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti </a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Quiroz</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Ronaldo Araujo Pinto, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10//">Eduardo Savino Gomes
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
+<img src="https://sdmntprwestus3.oaiusercontent.com/files/00000000-84e8-61fd-a67a-51f5dd4d9c20/raw?se=2025-05-18T01%3A19%3A06Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=732f244e-db13-47c3-bcc7-7ee02a9397bc&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-18T01%3A11%3A04Z&ske=2025-05-19T01%3A11%3A04Z&sks=b&skv=2024-08-04&sig=xT/sK1NjiO3DKHo9yqf7hv8TYOEiyao%2B430ntyjZp3M%3D" alt="PRESS F TO DEBUG" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
@@ -31,20 +31,21 @@ Para engajar os usuários de forma eficaz, o projeto integrará elementos de gam
 
 ## 🛠 Estrutura de pastas
 
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+-Raiz
+|
+|-->documentos
+ |-->Entrega 1
+ |-->Entrega 2
+ |-->Entrega 3
+ |-->Entrega 4
+ |-->README.md
+|-->imagens
+|-->src
+ |-->Backend
+ |-->Frontend
+|README.md
+
+README.MD: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
 
 A pasta raiz contem dois arquivos que devem ser alterados:
 
