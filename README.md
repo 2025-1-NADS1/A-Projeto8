@@ -9,7 +9,7 @@
 
 # Smart House Dashboard
 
-## Nome do Grupo: Press F to Debug
+## Nome do Grupo: ConectaLar
 
 ## Integrantes: <a href="https://www.linkedin.com/in/guilherme-soares-0a3542208/">Guilherme Nunes Soares</a>, <a href="https://www.linkedin.com/in/gabriel-melego-julio-85b83a307/">Gabriel Melego Júlio</a>, <a href="https://www.linkedin.com/in/karine-aparecida-cardoso-alves-b903a2366">Karine Aparecida Cardoso Alves</a>, <a href="https://www.linkedin.com/in/marina-soares-379384366/">Marina Soares dos Santos</a>
 
@@ -17,7 +17,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://sdmntprwestus3.oaiusercontent.com/files/00000000-84e8-61fd-a67a-51f5dd4d9c20/raw?se=2025-05-18T01%3A19%3A06Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=732f244e-db13-47c3-bcc7-7ee02a9397bc&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-18T01%3A11%3A04Z&ske=2025-05-19T01%3A11%3A04Z&sks=b&skv=2024-08-04&sig=xT/sK1NjiO3DKHo9yqf7hv8TYOEiyao%2B430ntyjZp3M%3D" alt="PRESS F TO DEBUG" border="0">
+<img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-034c-6230-8afa-4e8eadeddafc/raw?se=2025-05-26T03%3A12%3A00Z&sp=r&sv=2024-08-04&sr=b&scid=a58c52c0-fa40-5580-882f-b9e0f3506ad1&skoid=b64a43d9-3512-45c2-98b4-dea55d094240&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-26T02%3A44%3A06Z&ske=2025-05-27T02%3A44%3A06Z&sks=b&skv=2024-08-04&sig=re6XQgPESafSc4rywNYt7EtSk7PmUyW/BGe6wmPsCGA%3D">
  
 </p>
 
